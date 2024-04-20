@@ -1,4 +1,4 @@
-![logo](./Recursos/Visuales/image.png))
+![logo](./Recursos/Visuales/image.png)
 
 # TP2 - Simulación Electrónica - 21/04/2024  
 
