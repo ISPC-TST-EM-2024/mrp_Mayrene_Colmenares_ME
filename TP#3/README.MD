@@ -1,13 +1,13 @@
 ![logo](/.rsc/img/Logo.png)
 
-# TP2 - Simulación Electrónica - 28/04/2024  
+# TP2 - "Introducción al diseño de circuitos lógicos combinacionales y al álgebra de Boole" - 28/04/2024  
 
 ###  Docente: *Gustavo Vera*
 ### Alumno: *Mayrene Colmenares* 
 
 
 
-## Resumen de Repositorio  TP#2  
+## Resumen de Repositorio  TP#3
 • TP #3 "Introducción al diseño de circuitos lógicos combinacionales y al álgebra de Boole"  
 
         0. Requisitos 
