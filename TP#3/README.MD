@@ -10,13 +10,13 @@
 ## Resumen de Repositorio  TP#3
 • TP #3 "Introducción al diseño de circuitos lógicos combinacionales y al álgebra de Boole"  
 
-        0. Requisitos 
+        A. Requisitos 
 
-        1. Investigacion
+        B. Investigacion
 
-        2. Prototipos
+        C. Prototipos
 
-	3. Presentación
+	D. Presentación
 
 
 ### Objetivos:
