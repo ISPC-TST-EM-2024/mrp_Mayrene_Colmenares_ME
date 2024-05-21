@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./Recursos/Visuales/image.png)
 
 # TP5 - Circuitos Lógicos Secuenciales  
 
