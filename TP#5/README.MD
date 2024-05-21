@@ -9,11 +9,11 @@
 
 ## Resumen de Repositorio  TP#5:
 
-        A. Requisitos 
+        	A. Requisitos 
 
-        B. Investigacion
+        	B. Investigacion
 
-        C. Prototipos
+        	C. Prototipos
 
 		D. Presentación
 
